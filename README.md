@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3efir032
+- 👋 Hi, I’m @Aleksandr Mitrofanov
 - 👀 I’m interested in Python
 
 
